@@ -1,1 +1,12 @@
-/* Add your CSS here */
+header {
+  background-color: blue;
+  text-align: center;
+  height: 40vh;
+  color: white;
+}
+
+.intel{
+  width: 30%;
+  height: 100px;
+  margin-top: 50px;
+}
